@@ -2,8 +2,9 @@
 
 #### 😄 Introduce Myself
 - working on hansung univ. CSE student
-- learning Spring Boot to be a Backend Developer
 - Before 2022, I learned Android Native. 
+- now I'm learning Spring Boot
+
 
 <br/>
 
