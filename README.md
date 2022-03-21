@@ -1,7 +1,7 @@
 ## 👋 Hi I'm JungGeun
 
 #### 😄 Introduce Myself
-- working on hansung univ. CSE student
+- Working on Hansung Univ. CSE student
 - Before 2022, I learned Android Native. 
 - Now I'm learning Spring Boot
 
