@@ -2,9 +2,7 @@
 
 #### 😄 Introduce Myself
 - Working on Hansung Univ. CSE student
-- Before 2022, I learned Android Native. 
-- Now I'm learning Spring Boot
-
+- I learned Android Native and Spring Boot.
 
 <br/>
 
