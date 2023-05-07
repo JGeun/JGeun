@@ -1,8 +1,7 @@
 ## 👋 Hi I'm JungGeun
 
 #### 😄 Introduce Myself
-- Working on Hansung Univ. CSE student
-- I learned Android Native and Spring Boot.
+- I learned Android Native
 
 <br/>
 
