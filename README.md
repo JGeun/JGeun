@@ -1,46 +1,13 @@
-## 👋 Hi I'm JungGeun
+**Android Developer** <img alt="GIF" src="https://github.com/JGeun/JGeun/blob/master/android-studio.gif" width="4%" />
 
-#### 😄 Introduce Myself
-- I learned Android Native
-
-<br/>
-
-<div>
-  
-### 🌱 I'm currently learning
- 
-<p>
-  <img src="https://img.shields.io/badge/-SpringBoot-green?style=flat-plastic&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Mysql-blue?style=flat-plastic&logo=MariaDB Foundation&logoColor=white"/>
-</p>
-  
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Slack-753188?style=flat-plastic&logo=Slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-</p>
-  
-</div>
+- Hansung university (2016.3 ~ 2022.08)
+- Software Maestro 13th (2022.04 ~ 2022.11)
+- Wavve Android Developer (2023.03 ~ ing)
 
 <br/>
 
-## Github Stats
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pjk8926">  
 
-<img src="https://github-readme-stats.vercel.app/api?username=JGeun&show_icons=true"/>
-
-<div>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jgeun&&layout=compact" />
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pjk8926">
-  
-</div>
-
-<br/>
 
 ## 📫 Contacts 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://jgeun97.tistory.com/)
