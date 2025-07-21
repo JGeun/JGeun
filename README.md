@@ -2,7 +2,7 @@
 
 - Hansung university (2016.3 ~ 2022.08)
 - Software Maestro 13th (2022.04 ~ 2022.11)
-- Wavve Android Developer (2023.03 ~ ing)
+- Wavve Android Developer (2023.03 ~ 2025.07)
 
 <br/>
 
