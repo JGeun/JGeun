@@ -1,9 +1,5 @@
 **Android Developer** <img alt="GIF" src="https://github.com/JGeun/JGeun/blob/master/android-studio.gif" width="4%" />
 
-- Hansung university (2016.3 ~ 2022.08)
-- Software Maestro 13th (2022.04 ~ 2022.11)
-- Wavve Android Developer (2023.03 ~ 2025.07)
-
 <br/>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pjk8926">  
